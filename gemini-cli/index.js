@@ -1,3 +1,4 @@
+// This script runs a Gemini model with a user-provided prompt.
 import 'dotenv/config';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
